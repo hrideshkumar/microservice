@@ -1,5 +1,3 @@
-# microservice
-
 # Debugging Guide - Microservices - V2
 
 - [Spring Boot & Spring Cloud Versions](#spring-boot--spring-cloud-versions)
